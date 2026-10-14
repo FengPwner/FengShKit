@@ -17,8 +17,8 @@ A lightweight collection of Shell / Python tools, built mainly for **mobile (Ter
 - [Genshin Impact Installer README](https://github.com/FengPwner/FengShKit/tree/main/GenshinImpactInstaller)
   - [中文说明 (Chinese)](https://github.com/FengPwner/FengShKit/blob/main/GenshinImpactInstaller/READ_CN.md)
   - [English README](https://github.com/FengPwner/FengShKit/blob/main/GenshinImpactInstaller/READ_EN.md)
-- [KFC README](https://github.com/FengPwner/FengShKit/tree/main/KFC)
-- [System Repair README](https://github.com/FengPwner/FengShKit/tree/main/SystemRepair)
+- [KFC README](https://github.com/FengPwner/FengShKit/tree/main/KFC/README.md)
+- [System Repair README](https://github.com/FengPwner/FengShKit/tree/main/SystemRepair/README.md)
 
 ## Requirements
 
